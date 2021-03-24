@@ -1,0 +1,4 @@
+
+
+x = 'Dimka'
+print(x)
