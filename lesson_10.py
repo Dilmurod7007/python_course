@@ -1,4 +1,5 @@
 
 
 x = 'Dimka'
-print(x)
+s = 'Dimka'
+print(x+s)
