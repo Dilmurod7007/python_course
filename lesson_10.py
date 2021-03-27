@@ -2,4 +2,5 @@
 
 x = 'Dimka'
 s = 'Dimka'
-print(x+s)
+for i in range(10):
+    print(i)
